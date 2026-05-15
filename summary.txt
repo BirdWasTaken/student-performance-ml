@@ -1,0 +1,6 @@
+1. Built a regression model to predict student math scores.
+2. Used reading and writing scores as features.
+3. Evaluated model using mean absolute error and R² score.
+4. Built a classification model to predict pass/fail.
+5. Used logistic regression for classification.
+6. Evaluated classification using accuracy and confusion matrix.
